@@ -1,0 +1,1 @@
+This repo documents my work through various projects as part of a greater goal to learn how to code. The code is awful and probably violates standards. If, for some unbelievable reason, you want to use it, all code here is under The Unlicense. 
